@@ -1,0 +1,181 @@
+/* Fonts */
+@font-face {
+  font-family: 'Highfield';
+  src: url(fonts/Highfield-Thin.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url(fonts/Satoshi-Variable.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Common features */
+.titles {
+  font-family: 'Highfield', sans-serif;
+  color: #FFFFFF;
+}
+
+.content {
+  font-family: 'Satoshi', sans-serif;
+}
+
+/* First Section */
+.summer-wrapped {
+  position: absolute;
+  width: 450px;
+  height: 220px;
+  left: 500px;
+  top: 190px;
+  font-size: 80px;
+  line-height: 110px;
+  text-align: left;
+}
+
+.handmade-heading {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.handmade-content {
+  color: grey;
+  font-size: 0.75rem;
+}
+
+.gallery1 {
+  color: white;
+  margin-left: 1174px;
+  margin-top: -115px;
+  font-size: 1rem;
+}
+
+.into-watches {
+  position: absolute;
+  width: 450px;
+  height: 220px;
+  left: 620px;
+  top: 540px;
+  font-size: 80px;
+  line-height: 110px;
+  text-align: right;
+}
+
+/* Second section */
+.bezels-heading {
+  font-size: 1.5rem;
+}
+
+.bezels-content {
+  color: grey;
+  font-size: 0.75rem;
+}
+
+.wheel-year {
+  position: absolute;
+  width: 550px;
+  height: 220px;
+  left: 520px;
+  top: 1000px;
+  font-size: 80px;
+  line-height: 110px;
+  text-align: left;
+}
+
+.read-more {
+  color: white;
+  margin-left: 1162px;
+  margin-top: -85px;
+  font-size: 1rem;
+}
+
+/* Third Section */
+.special-watches {
+  position: absolute;
+  width: 850px;
+  height: 220px;
+  left: 420px;
+  top: 1900px;
+  font-size: 80px;
+  line-height: 110px;
+  text-align: right;
+}
+
+.special-content {
+  position: absolute;
+  color: grey;
+  font-size: 0.75rem;
+  top: 2450px;
+  left: 500px;
+}
+
+.gallery2 {
+  position: absolute;
+  color: white;
+  left: 533px;
+  top: 2660px;
+  font-size: 1rem;
+}
+
+/* Fourth section */
+.popular-goods {
+  position: absolute;
+  width: 550px;
+  height: 220px;
+  bottom: 550px;
+  font-size: 80px;
+  line-height: 80px;
+  text-align: left;
+}
+
+/* Fifth Section */
+.keep-touch {
+  position: absolute;
+  width: 850px;
+  height: 220px;
+  left: 340px;
+  top: 50px;
+  font-size: 80px;
+  line-height: 110px;
+  color: black;
+  text-align: center;
+}
+
+.send {
+  position: absolute;
+  color: black;
+  top: 1010px;
+  left: 1245px;
+  font-size: 1rem;
+}
+
+.form {
+  position: absolute;
+  width: 38px;
+  height: 22px;
+  left: 722px;
+  top: 526px;
+  font-size: 16px;
+  line-height: 100px;
+}
+
+/* Footer */
+h6 {
+  position: relative;
+  left: 88px;
+  width: 137px;
+  font-size: 18px;
+  line-height: 24px;
+  color: #D3D3D3;
+}
+
+.text-uppercase {
+  position: relative;
+  left: 80px;
+  width: 153px;
+  height: 41px;
+  font-size: 36px;
+  line-height: 41px;
+}

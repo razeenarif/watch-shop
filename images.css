@@ -1,0 +1,63 @@
+/* First Section */
+.rado1 {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+  left: 640px;
+  top: 260px;
+  border-radius: 267px;
+  transform: rotate(12.27deg);
+}
+
+/* Second Section */
+.rado2 {
+  position: absolute;
+  width: 260px;
+  height: 421px;
+  left: 82px;
+  top: 1250px;
+  border-radius: 168px;
+}
+
+.twowatches {
+  position: absolute;
+  width: 347px;
+  height: 449px;
+  left: 420px;
+  top: 1250px;
+}
+
+/* Third Section */
+.fossil {
+  position: absolute;
+  width: 320px;
+  height: 500px;
+  top: 2300px;
+}
+
+.rolex {
+  position: absolute;
+  width: 289px;
+  height: 487px;
+  left: 860px;
+  top: 2398px;
+  border-radius: 168px;
+}
+
+/* Fourth Section */
+.d-inline {
+  width: 247px;
+  height: 340px;
+  border-radius: 50%;
+}
+
+/* Fifth Section */
+.omega {
+  position: absolute;
+  width: 300px;
+  height: 400px;
+  left: 170px;
+  top: 495px;
+  border-radius: 40%;
+  transform: rotate(-45deg);
+}

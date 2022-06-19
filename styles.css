@@ -1,0 +1,182 @@
+body {
+  background-color: black;
+}
+
+/* Common features */
+.circle {
+  box-sizing: border-box;
+  border-radius: 50%;
+  position: absolute;
+  width: 135px;
+  height: 135px;
+  border: 1px solid grey;
+}
+
+/* THE WatchShop Logo */
+.right-end {
+  padding-left: 280%;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.fas {
+  padding-right: 5px;
+}
+
+/* First section */
+
+.oval1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 250px;
+  height: 500px;
+  left: 350px;
+  top: 220px;
+  border: 1px solid grey;
+  border-radius: 267px;
+  transform: rotate(-38.76deg);
+}
+
+.star1 {
+  position: absolute;
+  left: 380px;
+  top: 300px;
+}
+
+.circle1 {
+  left: 1152px;
+  top: 360px;
+}
+
+.handmade {
+  margin-top: 350px;
+  margin-left: 370px;
+}
+
+/* Second section */
+.circle2 {
+  left: 1152px;
+  top: 1260px;
+}
+
+.bezels {
+  margin-top: 770px;
+  margin-left: 770px;
+}
+
+
+.star2 {
+  position: relative;
+  left: 1200px;
+  top: 500px;
+}
+
+.star3 {
+  position: absolute;
+  left: 200px;
+  top: 1100px;
+}
+
+/* Third Section */
+
+
+
+.oval2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 308.02px;
+  height: 556.78px;
+  left: 940px;
+  top: 2350px;
+  border: 1px solid grey;
+  border-radius: 168px;
+  transform: rotate(33.48deg);
+}
+
+.star4 {
+  position: absolute;
+  left: 1170px;
+  top: 2430px;
+}
+
+
+
+.circle3 {
+  left: 500px;
+  top: 2600px;
+}
+
+
+
+/* Fourth section */
+
+
+.carousel-indicators {
+  position: absolute;
+  margin-top: 60%;
+  top: 70%;
+}
+
+.fourth-section {
+  position: absolute;
+  size: 100vh;
+  top: 3300px;
+  padding-bottom: 250px;
+  left: 40%;
+}
+
+.star5 {
+  position: absolute;
+  left: 300px;
+}
+
+.star6 {
+  position: absolute;
+  right: 300px;
+  top: 350px;
+}
+
+/* Fifth section */
+.fifth-section {
+  position: absolute;
+  margin-top: 170%;
+  left: 0;
+  padding-left: 0;
+  background-color: #D6D6D6;
+  height: 1200px;
+  width: 1519px;
+  padding: 0;
+}
+
+.oval3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 260px;
+  height: 456.78px;
+  left: 280px;
+  top: 450px;
+  border: 1px solid grey;
+  border-radius: 168px;
+  transform: rotate(33.48deg);
+}
+.star7 {
+  position: relative;
+  left: 470px;
+  top: 500px;
+}
+.circle4 {
+  left: 1200px;
+  top: 950px;
+}
+
+
+/* Footer */
+footer {
+  position: absolute;
+  top: 5126px;
+  width: 1518px;
+  left: 0;
+  padding: 0;
+}
